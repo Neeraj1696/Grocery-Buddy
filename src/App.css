@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.alert{
+  margin-bottom: 1rem ;
+display: grid;
+height: 1.25rem;
+align-items: center;
+font-size: 0.7rem;
+text-align: center;
+
+
+
+}
+
+.alert-danger{
+  color: red;
+  background-color:white;
+
+}
+.alert-success{
+  color: green;
+  background-color:white;
+}
